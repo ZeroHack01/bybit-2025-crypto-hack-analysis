@@ -9,11 +9,10 @@
 
 ## 📄 PDF Report Download
 
-📥 📥 [Download PDF Report](./bybit-2025-hack-analysis.pdf) 
-File: `crytpto hacked bybit 2025.pdf`  
-License: MIT or CC BY 4.0 *(choose depending on your preference)*
+📥 [Click here to download the full technical report (PDF)](./crytpto%20hacked%20bybit%202025.pdf)
 
----
+📁 File: `crytpto hacked bybit 2025.pdf`  
+📝 License: MIT or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## 📚 Summary
 
