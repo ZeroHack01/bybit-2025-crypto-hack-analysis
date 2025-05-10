@@ -1,27 +1,40 @@
 # 🛡️ Bybit 2025 Crypto Hack – Technical Analysis
 
-This repository presents an in-depth OSINT-based cybersecurity analysis of the $1.5 billion Bybit crypto hack in 2025, including the technical attack methodology, vulnerabilities exploited, and mitigation recommendations.
-
-📄 **[Download Full Report (PDF)](./bybit_breach_report_2025.pdf)**
-
-> Prepared by **Mongwoiching Marma**, Independent Security Researcher  
-> 📫 mongwoiching2080@gmail.com  
-> 🌐 Blog: [HyperGrid DefendersLab](https://your-blog-link.com)
+> 📡 Published by **[HyperGrid Defenders Lab](https://medium.com/@NextGencyber)**  
+> 🧑‍💻 Author: Mongwoiching Marma | Independent Security Researcher  
+> ✉️ Email: mongwoiching2080@gmail.com 
+> 🔗 Medium: [@NextGencyber](https://medium.com/@NextGencyber)
 
 ---
 
-## 📸 Report Preview
+## 📄 PDF Report Download
 
-![Preview](images/preview.png)
+📥 **[Click here to download the full technical report (PDF)](./crytpto%20hacked%20bybit%2020125.pdf)**  
+File: `crytpto hacked bybit 2025.pdf`  
+License: MIT or CC BY 4.0 *(choose depending on your preference)*
 
 ---
 
-## 📚 Contents
+## 📚 Summary
 
-- 🧠 Introduction & Attack Methodology  
-- 💣 Exploitation Process  
-- 🧱 Security Vulnerabilities  
-- 💥 Impact Analysis  
-- 🔐 Incident Response & Fixes  
-- 📈 Lessons from History  
-- 📜 Full Reference List
+- 💰 $1.5 Billion stolen via smart contract reentrancy & API exploitation
+- 🎯 Target: Bybit crypto exchange, February 2025
+- 🧠 Tactics: Social engineering, phishing, JS injection, remote code execution
+- 🔐 Flaws: API misconfig, lack of multi-sig, weak internal controls
+- 🚨 Aftermath: Withdrawal freeze, forensic investigation, security overhaul
+
+---
+
+## 🧱 Read on Medium
+
+📖 Want the report in blog format?  
+👉 **[Read the breakdown on Medium](https://medium.com/@NextGencyber)**  
+Published under: *HyperGrid Defenders Lab*
+
+---
+
+## 📢 License & Attribution
+
+This research is shared under the [MIT License](LICENSE) or [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) (your choice).  
+Please cite “HyperGrid Defenders Lab | Mongwoiching Marma” if reused.
+
