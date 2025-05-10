@@ -12,7 +12,7 @@
 📥 [Click here to download the full technical report (PDF)](./crytpto%20hacked%20bybit%202025.pdf)
 
 📁 File: `crytpto hacked bybit 2025.pdf`  
-📝 License: MIT or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+📝 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## 📚 Summary
 
@@ -34,6 +34,6 @@ Published under: *HyperGrid Defenders Lab*
 
 ## 📢 License & Attribution
 
-This research is shared under the [MIT License](LICENSE) or [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) 
+This research is shared under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) 
 Please cite “HyperGrid Defenders Lab | Mongwoiching Marma” if reused.
 
