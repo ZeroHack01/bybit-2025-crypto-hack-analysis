@@ -3,13 +3,13 @@
 > 📡 Published by **[HyperGrid Defenders Lab](https://medium.com/@NextGencyber)**  
 > 🧑‍💻 Author: Mongwoiching Marma | Independent Security Researcher  
 > ✉️ Email: mongwoiching2080@gmail.com 
-> 🔗 Medium: [@NextGencyber](https://medium.com/@NextGencyber)
+> 🔗 Medium: [HyperGridDefendersLab](https://medium.com/@NextGencyber)
 
 ---
 
 ## 📄 PDF Report Download
 
-📥 **[Click here to download the full technical report (PDF)](./crytpto%20hacked%20bybit%2020125.pdf)**  
+📥 📥 [Download PDF Report](./bybit-2025-hack-analysis.pdf) 
 File: `crytpto hacked bybit 2025.pdf`  
 License: MIT or CC BY 4.0 *(choose depending on your preference)*
 
