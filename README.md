@@ -1,4 +1,9 @@
 # 🛡️ Bybit 2025 Crypto Hack – Technical Analysis
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+![PDF Report](https://img.shields.io/badge/PDF-Available-blue)
+![Status](https://img.shields.io/badge/Status-Investigated-red)
+![Author](https://img.shields.io/badge/Author-Mongwoiching%20Marma-blueviolet)
+![Crypto Hack](https://img.shields.io/badge/Hack-Bybit%202025-yellow)
 
 > 📡 Published by **[HyperGrid Defenders Lab](https://medium.com/@NextGencyber)**  
 > 🧑‍💻 Author: Mongwoiching Marma | Independent Security Researcher  
