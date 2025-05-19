@@ -26,9 +26,7 @@
 - 🧠 Tactics: Social engineering, phishing, JS injection, remote code execution
 - 🔐 Flaws: API misconfig, lack of multi-sig, weak internal controls
 - 🚨 Aftermath: Withdrawal freeze, forensic investigation, security overhaul
-
 ---
-
 ## 🧱 Read on Medium
 
 📖 Want the report in blog format?  
