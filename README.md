@@ -5,10 +5,10 @@
 [![Author](https://img.shields.io/badge/Author-Mongwoiching%20Marma-blueviolet)](mailto:mongwoiching2080@gmail.com)
 [![Crypto Hack](https://img.shields.io/badge/Hack-Bybit%202025-yellow)](#)
 
-> 📡 Published by **[HyperGrid Defenders Lab](https://medium.com/@NextGencyber)**  
+> 📡 Published by **[HyperGrid Defenders Lab](https://medium.com/@HypergridDefendersLab)**  
 > 🧑‍💻 Author: Mongwoiching Marma | Independent Security Researcher  
 > ✉️ Email: mongwoiching2080@gmail.com 
-> 🔗 Medium: [HyperGridDefendersLab](https://medium.com/@NextGencyber)
+> 🔗 Medium: [HyperGridDefendersLab](https://medium.com/@HypergridDefendersLab))
 
 ---
 
@@ -30,7 +30,7 @@
 ## 🧱 Read on Medium
 
 📖 Want the report in blog format?  
-👉 **[Read the breakdown on Medium](https://medium.com/@NextGencyber)**  
+👉 **[Read the breakdown on Medium](https://medium.com/@HypergridDefendersLab)**  
 Published under: *HyperGrid Defenders Lab*
 
 ---
